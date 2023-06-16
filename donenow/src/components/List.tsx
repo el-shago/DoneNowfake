@@ -7,7 +7,9 @@ export default function List(){
                 <h1>DoneNow</h1>
                 <h2>Welcome User!</h2>
             </div>
-            <div className='bg-[#454545]'>Aqui van las tareas</div>
+            <div className='bg-[#454545]'>
+                Aqui van las tareas
+            </div>
         </div>
     )
 }
