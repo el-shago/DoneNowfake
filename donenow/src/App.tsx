@@ -1,10 +1,12 @@
-import List from "./components/List";
+import './styles/index.css';
+
 function App() {
+
   return (
-    <div className="font-Lexend">
-      <List />
-    </div>
+    <>
+      <h1 className=' text-red-500'>hola</h1>
+    </>
   )
 }
 
-export default App;
+export default App
